@@ -1,6 +1,4 @@
-(ns acme-corp.redsquirrel.cute
-  (:require [acme-corp.redsquirrel.nuts]))
+(ns acme-corp.redsquirrel.cute)
 
 (defn init! []
-  (acme-corp.redsquirrel.nuts)
-  (println "being adorable"))
+  (println "looking cute"))
